@@ -1,8 +1,6 @@
 ## Hi there👋
 
-I'm a student Double major in Computer Science and Mathematics.
-
-I'm interested in backend development, databases, and building reliable systems.
+I'm a Computer Science and Mathematics (Statistics) student in Sydney, interested in backend systems, databases, and software that stays correct under concurrency and failure.
 
 My projects cover backend development, database systems, real-time applications, and automation, with an emphasis on concurrency, data consistency, API integration, testing, and observability.
 
