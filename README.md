@@ -1,6 +1,6 @@
 ## Hi there👋
 
-I'm a student Double major in Computer Science and Statistics.
+I'm a student Double major in Computer Science and Mathematics.
 
 I'm interested in backend development, databases, and building reliable systems.
 
