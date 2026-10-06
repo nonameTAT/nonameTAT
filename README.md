@@ -14,14 +14,11 @@ I’m currently expanding into full-stack development to build complete applicat
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true"
     alt="Most used languages"
-    width="400"
+    width="49%"
   />
-</p>
-
-<p align="center">
   <img
     src="./metrics.plugin.isocalendar.svg"
     alt="Contribution calendar — last 180 days"
-    width="500"
+    width="49%"
   />
 </p>
