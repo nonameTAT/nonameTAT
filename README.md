@@ -4,18 +4,18 @@
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonameTAT&amp;theme=nord_dark&amp;utcOffset=11"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonameTAT&amp;theme=dracula&amp;utcOffset=11"
     alt="nonameTAT productive time — UTC+11"
     width="49%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonameTAT&amp;theme=nord_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonameTAT&amp;theme=dracula"
     alt="nonameTAT most committed languages"
     width="49%"
   />
 </p>
 
-### 🚀 Arcade
+### 🚀 Contribution arcade
 
 <p align="center">
   <img
@@ -24,5 +24,3 @@
     width="100%"
   />
 </p>
-
-<sub>Arcade contributions: [czl9707](https://github.com/czl9707) · Stats: nonameTAT</sub>
