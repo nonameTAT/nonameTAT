@@ -6,7 +6,7 @@ My projects cover backend development, database systems, real-time applications,
 
 I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
 
-## Projects
+## Pinned Projects
 
 <p align="center">
   <a href="https://github.com/nonameTAT/banking-ledger">
