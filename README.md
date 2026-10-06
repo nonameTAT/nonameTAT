@@ -10,25 +10,15 @@ I’m currently expanding into full-stack development to build complete applicat
 
 ### GitHub Activity
 
-### GitHub Activity
-
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/?username=nonameTAT&amp;show_icons=true&amp;theme=dracula&amp;hide=stars&amp;hide_rank=true&amp;hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/?username=nonameTAT&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=nonameTAT's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&card_width=450"
     alt="GitHub stats"
     width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&langs_count=4&theme=calm&card_width=450"
     alt="Most used languages"
     width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./metrics.plugin.isocalendar.svg"
-    alt="Contribution calendar — last 180 days"
-    width="500"
   />
 </p>
