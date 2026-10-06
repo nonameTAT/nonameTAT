@@ -8,7 +8,7 @@ My projects cover backend development, database systems, real-time applications,
 
 I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
 
-### GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img
@@ -25,7 +25,7 @@ I’m currently expanding into full-stack development to build complete applicat
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif"
+    src="./space-shooter.gif"
     alt="Contribution space shooter"
     width="98%"
   />
