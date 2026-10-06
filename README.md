@@ -8,16 +8,16 @@ My projects cover backend development, database systems, real-time applications,
 
 I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
 
-## GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/?username=nonameTAT&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=nonameTAT's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&hide=stars,contribs&card_width=468"
+    src="https://github-stats-extended.vercel.app/api/?username=nonameTAT&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=nonameTAT's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&hide=stars&card_width=440"
     alt="GitHub stats"
     width="49%"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&langs_count=4&theme=transparent&card_width=588"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&langs_count=4&theme=transparent&card_width=490"
     alt="Most used languages"
     width="49%"
   />
@@ -25,8 +25,8 @@ I’m currently expanding into full-stack development to build complete applicat
 
 <p align="center">
   <img
-    src="./metrics.plugin.isocalendar.svg"
-    alt="Contribution calendar — last 180 days"
+    src="./space-shooter.gif"
+    alt="Contribution space shooter"
     width="98%"
   />
 </p>
