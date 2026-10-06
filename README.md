@@ -6,18 +6,6 @@ My projects cover backend development, database systems, real-time applications,
 
 I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
 
-## Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/nonameTAT/banking-ledger">
-    <img
-      src="https://github-stats-extended.vercel.app/api/pin/?username=nonameTAT&repo=banking-ledger&theme=transparent&description_lines_count=2"
-      alt="banking-ledger"
-      width="49%"
-    />
-  </a>
-</p>
-
 ## GitHub Activity
 
 <p align="center">
