@@ -1,26 +1,27 @@
-# nonameTAT
+# Hi there, I'm Dennis 👋
 
-### GitHub Stats
+I'm a student Double major in Computer Science and Statistics.
+
+I'm interested in backend development, databases, and building reliable systems.
+
+My projects cover backend development, database systems, real-time applications, and automation, with an emphasis on concurrency, data consistency, API integration, testing, and observability.
+
+I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
+
+### GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nonameTAT&amp;theme=dracula&amp;utcOffset=11"
-    alt="nonameTAT productive time — UTC+11"
-    width="49%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nonameTAT&amp;theme=dracula"
-    alt="nonameTAT most committed languages"
-    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nonameTAT&amp;layout=compact&amp;langs_count=8&amp;theme=dracula&amp;hide_border=true"
+    alt="Most used languages"
+    width="400"
   />
 </p>
 
-### 🚀 Contribution arcade
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/czl9707/czl9707/main/gh-space-shooter.webp"
-    alt="Space shooter animation based on czl9707's contributions"
-    width="100%"
+    src="./metrics.plugin.isocalendar.svg"
+    alt="Contribution calendar — last 180 days"
+    width="500"
   />
 </p>
