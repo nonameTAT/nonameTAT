@@ -1,10 +1,10 @@
-## Hi there👋
+## Hi there 👋
 
-I'm a Computer Science and Mathematics / Statistics student in Sydney, interested in backend systems, databases, and software that stays correct under concurrency and failure, and AI enginering.
+I'm a Computer Science and Mathematics / Statistics student in Sydney, interested in back-end systems, databases, and AI engineering.
 
-My projects cover backend development, database systems, real-time applications, and automation, with an emphasis on concurrency, data consistency, API integration, testing, and observability.
+My projects cover backend development, database systems, real-time translation, networking, automation and etc, with an emphasis on concurrency, data consistency, API integration, testing, and observability.
 
-I’m currently expanding into full-stack development to build complete applications, from backend services to user interfaces.
+I'm currently working toward full-stack development and applying AI to real-world problems.
 
 ## GitHub Activity
 
