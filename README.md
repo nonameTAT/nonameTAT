@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm a Computer Science and Mathematics / Statistics student in Sydney, interested in back-end systems, databases, and AI engineering.
+I'm a Computer Science and Mathematics / Statistics student in Sydney, focus on backend systems and AI engineering and other interesting things!
 
 My projects cover backend development, database systems, real-time translation, networking, automation and etc, with an emphasis on concurrency, data consistency, API integration, testing, and observability.
 
-I'm currently working toward full-stack development and applying AI to real-world problems.
+I'm currently working toward full-stack development and AI engineering.
 
 ## GitHub Activity
 
